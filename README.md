@@ -1,2 +1,6 @@
 # hello-world
-ce  ganma
+
+ceshi 
+int i=10
+ceshi  ganma
+
